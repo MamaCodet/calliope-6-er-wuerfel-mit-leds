@@ -15,3 +15,5 @@ Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
 Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 
 ![Eine gerenderte Ansicht der Blöcke](https://github.com/mamacodet/calliopemini-6-er-wuerfel-mit-leds/raw/master/CalliopeMini6erWuerfel.png)
+
+### Viel Spaß! 🙂
